@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   /* ---------- TYPED ROLE LINE ---------- */
-  const roles = ['Frontend Developer_', 'UI Engineer_', 'React Developer_', 'Interaction Builder_'];
+  const roles = ['Frontend Developer_', 'Angular Developer_', 'Website Builder_'];
   const roleEl = document.querySelector('.role .cur');
   if (roleEl) {
     let ri = 0, ci = 0, deleting = false;
